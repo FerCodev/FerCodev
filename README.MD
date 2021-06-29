@@ -2,7 +2,7 @@
 ### ¡Este es Fernando Montes De Oca!
 <code></code>
 [<code><img display="inline" src="-Github-000.svg"></code>](https://github.com/FerCodev)
-[<code><img display="inline" src="-LinkedIn-blue.svg"></code>](https://github.com/FerCodev)[<code><img display="inline" src="-Gmail-c14438.svg"> </code>](https://github.com/FerCodev)
+[<code><img display="inline" src="-LinkedIn-blue.svg"></code>](https://www.linkedin.com/in/montes-de-oca/)[<code><img display="inline" src="-Gmail-c14438.svg"> </code>](mailto:fernando.proff@hotmail.com)
 
 ¡Bienvenido a mi página de Github! ¡Soy Fernando!  
 
