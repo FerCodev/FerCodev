@@ -11,7 +11,7 @@
 
 #### 🌱 Proyectos en curso actualmente: 
 - UpTask (proyecto de gestion de tareas realizado en Node)  
-- Mi propio sitio web  [FerCode] (https://fercode.com.ar/) 
+- Mi propio sitio web  <code>[Fercode.com.ar](https://fercode.com.ar/)</code> 
 - 
 
 #### 💪 Cosas con las que me estoy desafiando:
