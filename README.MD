@@ -1,21 +1,20 @@
 ### Hola 👋 
-### ¡Este es Fernando Roldán!
-
-[! [Github] (https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)] (https://github.com/FerCodev)
-[! [Linkedin] (https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)] (https://www.linkedin.com/in/montes-de-oca/)
-[! [Gmail] (https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)] (mailto: fernando.proff@hotmail.com)
+### ¡Este es Fernando Montes De Oca!
+<code></code>
+[<code><img display="inline" src="-Github-000.svg"></code>](https://github.com/FerCodev)
+[<code><img display="inline" src="-LinkedIn-blue.svg"></code>](https://github.com/FerCodev)[<code><img display="inline" src="-Gmail-c14438.svg"> </code>](https://github.com/FerCodev)
 
 ¡Bienvenido a mi página de Github! ¡Soy Fernando!  
 
-<img align = "right" alt = "img" src = "https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width = "50%" height = "auto" />
+<img align = "right" alt = "img" src = "" width = "50%" height = "auto" />
 
 
-#### 🌱 Prpyectos en curso actualmente: 
+#### 🌱 Proyectos en curso actualmente: 
 - UpTask (proyecto de gestion de tareas realizado en Node)  
 - Mi propio sitio web  [FerCode] (https://fercode.com.ar/) 
 - 
 
-####: muscle: Cosas con las que me estoy desafiando:
+#### 💪 Cosas con las que me estoy desafiando:
 - Despertarse más temprano para aprovechar bien el día
 - Codificar al menos 4 horas al día
 - Hacer ejercicio 3 días a la semana
